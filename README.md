@@ -22,4 +22,4 @@
 
 ---
 
-![klaryon's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaryon&show_icons=true&theme=dracula)
+![klaryon's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaryon&show_icons=true&theme=vue)

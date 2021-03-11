@@ -2,7 +2,7 @@
 
 - 👩‍💻 I'm a Front-End Web Developer and a Project Architect. 
 - 🏗️ Building in-between both digital and built environment.
-- 🔥 Curious minded. Continuously learning, seeking patterns and connecting dots.
+- 🔥 Curious mind. Continuously learning, seeking patterns and connecting dots.
 - 🔭 My goal is to become an IT Architect. My starting point is as a Front-end Developer. 
 - :octocat: I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍!
 

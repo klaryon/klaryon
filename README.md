@@ -31,7 +31,7 @@
 <br>
 
 ### Contact me on:
-[<img align="left" alt="clarissa ardon | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="clarissa ardon | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/clarissaardon/
 

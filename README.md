@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm klaryon! 
 
-- 👩‍💻 I'm a Front-End Web Developer and a Project Architect. 
+- 👩‍💻 I'm a Front End Developer and a Project Architect. 
 - 🏗️ Building in-between both digital and built environment.
 - 🔥 Curious mind. Continuously learning, seeking patterns and connecting dots.
 - 🔭 Currently working on improving my programming skills!! 

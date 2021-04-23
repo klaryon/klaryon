@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/clarissaardon/)
 
-- 👩‍💻 I'm a Front End Developer and a Project Architect. 
+- 👩‍💻 I'm a Frontend Developer and a Project Architect. 
 - 🏗️ Building in-between both digital and built environment.
 - 🔥 Curious mind. Continuously learning, seeking patterns and connecting dots.
 - 🔭 Currently working on improving my programming skills!! 

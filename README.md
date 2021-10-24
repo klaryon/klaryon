@@ -4,31 +4,17 @@
 
 - 👩‍💻 I'm a Frontend Developer and a Project Architect. 
 - 🏗️ Building in-between both digital and built environments.
-- 🔥 Curious mind. Continuously learning, seeking patterns and connecting dots.
+- 🔥 Intense Curious mind. Continuously learning, seeking patterns and connecting dots.
 - 🔭 Currently working on improving my programming skills!! 
 - :octocat: I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍!
 
 ### Currently Learning:
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
-<img align="left" alt="Sass" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Redux" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="Google Firebase" width="35px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/googleFirebase.png" />
-
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JS" width="50px" /> <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="50px" /> <img src="https://media.giphy.com/media/UQJlZ2OcaCA2RLfGiZ/giphy.gif" alt="Android" width="35px" /> <img src="https://media.giphy.com/media/VgTtXyj5YjVFieCYM2/giphy.gif" alt="iOS" width="50px" />
 ---
-<br>
+
 
 ### Software & Technologies:
-<img align="left" alt="Adobe Illustrator" width="35px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/AdobeIlustrator.png" />
-<img align="left" alt="Adobe Photoshop" width="35px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/AdobePhotoshop.png" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/marcboreu/marcboreu/main/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="VSCode" width="40px" /> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="50px" /> <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="50px" /> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="50px" /> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="50px" />
 ---
 <br>
 

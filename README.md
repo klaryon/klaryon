@@ -4,7 +4,7 @@
 
 - 👩‍💻 I'm a Frontend Developer and a Project Architect. 
 - 🏗️ Building in-between both digital and built environments.
-- 🔥 Intense Curious mind. Continuously learning, seeking patterns and connecting dots.
+- 🔥 Intense curious mind. Continuously learning, seeking patterns and connecting dots.
 - 🔭 Currently working on improving my programming skills!! 
 - :octocat: I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍!
 

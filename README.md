@@ -21,3 +21,5 @@
 
 ![klaryon's GitHub stats](https://github-readme-stats.vercel.app/api?username=klaryon&show_icons=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klaryon&layout=compact)](https://github.com/klaryon/github-readme-stats)
+
+<a href="https://app.daily.dev/klaryon"><img src="https://api.daily.dev/devcards/baab0c2b18c148129b5bca1f354ec693.png?r=r9t" width="400" alt="Clarissa Ardon's Dev Card"/></a>
